@@ -1,0 +1,76 @@
+ÀÄmain
+   ÀÄMAIN  0/140  Ram=1
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄprocess_all  0/170  Ram=9
+      ³  ÃÄget  0/224  Ram=5
+      ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ÀÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄget_ventosa  0/80  Ram=1
+      ³  ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ³  ÀÄ*
+      ³  ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÃÄb_Q  0/34  Ram=2
+      ³  ³  ³  ³  ÀÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ³  ÀÄ*
+      ³  ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÀÄreset  0/76  Ram=1
+      ³  ³  ³     ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³     ÃÄb_V  0/34  Ram=2
+      ³  ³  ³     ³  ÀÄ*
+      ³  ³  ³     ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³     ÃÄb_V  0/34  Ram=2
+      ³  ³  ³     ³  ÀÄ*
+      ³  ³  ³     ÀÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄget_ventosa  0/80  Ram=1
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄget_ventosa  0/80  Ram=1
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÀÄget_ventosa  0/80  Ram=1
+      ³  ³     ÀÄ*
+      ³  ÃÄset  0/196  Ram=5
+      ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄset_ventosa  0/72  Ram=1
+      ³  ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ³  ÀÄ*
+      ³  ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÃÄb_Q  0/34  Ram=2
+      ³  ³  ³  ³  ÀÄ*
+      ³  ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ³  ÀÄ*
+      ³  ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ³  ÀÄreset  0/76  Ram=1
+      ³  ³  ³     ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄset_ventosa  0/72  Ram=1
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄb_V  0/34  Ram=2
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÃÄset_ventosa  0/72  Ram=1
+      ³  ³  ³  ÀÄ*
+      ³  ³  ÃÄ@delay_ms1  0/38  Ram=1
+      ³  ³  ÀÄset_ventosa  0/72  Ram=1
+      ³  ³     ÀÄ*
+      ³  ÀÄb_S  0/40  Ram=3
+      ³     ÀÄ@delay_ms1  0/38  Ram=1
+      ÀÄprocess_all  0/170  Ram=9
+         ÀÄ*
